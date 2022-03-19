@@ -1,0 +1,14 @@
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\bin\Debug\TRPOGame.exe.config
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\bin\Debug\TRPOGame.exe
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\bin\Debug\TRPOGame.pdb
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.csproj.AssemblyReference.cache
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.Properties.Resources.resources
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.csproj.GenerateResource.cache
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.csproj.CoreCompileInputs.cache
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.exe
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.pdb
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.Resource1.resources
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.MainMenu.resources
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.Game.resources
+C:\Users\Алексеев Корней\source\repos\TRPOGame\TRPOGame\obj\Debug\TRPOGame.Settings.resources

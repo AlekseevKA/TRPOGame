@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd79b667-6bd8-458c-9929-316e3b4e75d2": {
+      "ProjectGuid": "fd79b667-6bd8-458c-9929-316e3b4e75d2",
+      "DisplayName": "TRPOGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
